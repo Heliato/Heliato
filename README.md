@@ -12,8 +12,8 @@
 
 # About Me ・ 📄
 
-I'm working on a secret project.
+I'm learning reverse engineering for fortnite.
 
 # Personal Information ・ 🔒
 
-I'm 17 years old, I'm French, I started developing in 2022, I know JavaScript, NodeJS and PHP, I'm learning C#. I'm on a secret project that will be released at the end of the year.
+I'm 17 years old, I'm French, I started developing in 2021, I know JavaScript, NodeJS and PHP, I'm learning C# and C++.
