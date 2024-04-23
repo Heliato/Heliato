@@ -16,4 +16,4 @@ I'm learning reverse engineering for fortnite.
 
 # Personal Information ・ 🔒
 
-I'm 17 years old, I'm French, I started developing in 2021, I know JavaScript, NodeJS and PHP, I'm learning C# and C++.
+I'm 18 years old, I'm French, I started developing in 2021, I know JavaScript, NodeJS and PHP, I'm learning C# and C++.
