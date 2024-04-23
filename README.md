@@ -12,7 +12,7 @@
 
 # About Me ・ 📄
 
-I'm learning reverse engineering for fortnite.
+I'm learning reverse engineering.
 
 # Personal Information ・ 🔒
 
