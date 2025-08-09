@@ -16,3 +16,8 @@ I'm learning reverse engineering.
 # Personal Information ・ 🔒
 
 I'm 19 years old, I'm French, I started developing in 2021, I know NodeJS, C++.
+
+# Contact ・ 📬
+
+For any inquiries, collaborations, or requests, feel free to reach out to me at:
+**Email:** [heliatopro@gmail.com](mailto:heliatopro@gmail.com) 
